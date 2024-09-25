@@ -2,6 +2,8 @@
 
 Este proyecto es un **dashboard** que presenta gráficos semi-circulares de progreso para tres indicadores clave: **Inventario**, **Asistencia** y **Actividad**. El diseño es minimalista y utiliza colores distintivos para cada gráfico, con animaciones para mostrar el porcentaje de progreso.
 
+![Imagen del referencia](./images/REFERENCE.png)
+
 ## Descripción
 
 El dashboard se compone de tres contenedores, cada uno representando un indicador clave del sistema:
