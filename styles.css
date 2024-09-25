@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #101d30;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.grafico {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  display: inline-block;
+  position: relative;
+}
+
+.porcentaje {
+  font-size: 12px;
+}
+
+p {
+  color: white;
+  font-size: 21px;
+}
+
+.contenedor {
+  background-color: #0b1723;
+  border-radius: 50px;
+  margin: 20px;
+  width: 350px;
+}
+
+svg {
+  height: 120px;
+  width: 200px;
+  fill: none;
+  stroke-width: 10;
+  stroke-linecap: round;
+  filter: drop-shadow(-3px -2px 5px);
+}
