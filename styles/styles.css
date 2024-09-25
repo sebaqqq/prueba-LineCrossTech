@@ -10,6 +10,16 @@ body {
   height: 100vh;
 }
 
+.dashboard {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  padding: 20px;
+}
+
 .grafico {
   width: 200px;
   height: 100px;
